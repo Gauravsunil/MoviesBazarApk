@@ -1,0 +1,35 @@
+{
+  "expo": {
+    "name": "MoviesBazar",
+    "slug": "MoviesBazar",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/logo.png",
+    "splash": {
+      "image": "./assets/logo.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#000000"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "description": "",
+      "android": {
+      "package": "com.moviesbzar.moviesbazar",
+      "versionCode": 1
+    }
+  
+  },
+  "name": "MoviesBazar"
+}
